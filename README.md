@@ -1,6 +1,22 @@
 # sql-challenge
 Module 9 Challenge - 221119md started, 221127md completed
 
+## Submitted on 27/02/2022
+All in the folder: EmployeeSQL
+
+* Created an image file of your ERD:   QuickDBD-export.png
+
+* Created a `.sql` file of your table schemata:  employee_schema.sql
+
+* Created a `.sql` file of your queries: queries.sql
+
+* (Optional) Create a Jupyter notebook of the bonus analysis: bonus_Module9Challenge.ipynb
+
+* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
+
+* Ensure your repository has regular commits and a thorough README.md file
+
+
 Instructions are as follows:
 
 # Unit 9 Homework: Employee Database
